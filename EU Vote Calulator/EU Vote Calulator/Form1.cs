@@ -51,6 +51,8 @@ namespace EU_Vote_Calulator
             {
                 outputFile.WriteLine(output);
             }
+            Classes.Countries test = JsonConvert.DeserializeObject<Classes.Countries>(output);
+            label1.Text = test.Name;
         }
 
         private void label1_Click(object sender, EventArgs e)
