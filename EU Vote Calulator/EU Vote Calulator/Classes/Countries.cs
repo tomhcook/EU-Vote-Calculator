@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace EU_Vote_Calulator.Classes
 {
-    class Countries
+    public class Countries
     {
+        public bool Abstain;
         public string imgpath;
         public string Name;
         public bool Vote;

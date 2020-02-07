@@ -1,0 +1,12 @@
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\EU Vote Calulator.exe.config
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\EU Vote Calulator.exe
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\EU Vote Calulator.pdb
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\obj\Debug\EU Vote Calulator.csprojAssemblyReference.cache
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\obj\Debug\EU_Vote_Calulator.Form1.resources
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\obj\Debug\EU_Vote_Calulator.Properties.Resources.resources
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\obj\Debug\EU Vote Calulator.csproj.GenerateResource.cache
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\obj\Debug\EU Vote Calulator.exe
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\obj\Debug\EU Vote Calulator.pdb
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\obj\Debug\EU Vote Calulator.csproj.CopyComplete
