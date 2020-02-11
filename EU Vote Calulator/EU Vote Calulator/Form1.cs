@@ -21,14 +21,14 @@ namespace EU_Vote_Calulator
             InitializeComponent();
             
         }
-
+        //https://en.wikipedia.org/wiki/List_of_European_Union_member_states_by_population
         public void Form1_Load(object sender, EventArgs e)
         {
             twat.Abstain = false;
             twat.Name = "asburger";
             twat.pop = 22.6f;
             twat.Vote = true;
-            twat.imgpath = @"C:\Users\computing\Downloads\ch0015_00_takeshi_256.png";
+            twat.imgpath = @"\\imgs\flags\Austria.png";
 
             cunt.Abstain = false;
             cunt.Name = "mo";
@@ -56,6 +56,15 @@ namespace EU_Vote_Calulator
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+        public void maths()
+        {
+            //code
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }
