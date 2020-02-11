@@ -40,6 +40,8 @@ namespace EU_Vote_Calulator
 
         public void button1_Click(object sender, EventArgs e)
         {
+            
+            pictureBox1.Image = Properties.Resources.Austria;
             string output = JsonConvert.SerializeObject(cunt);
             label1.Text = output;
 
@@ -55,7 +57,7 @@ namespace EU_Vote_Calulator
             label1.Text = test.Name;
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void pictureBox1_Update(object sender, EventArgs e)
         {
 
         }
@@ -65,6 +67,16 @@ namespace EU_Vote_Calulator
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
 
         }

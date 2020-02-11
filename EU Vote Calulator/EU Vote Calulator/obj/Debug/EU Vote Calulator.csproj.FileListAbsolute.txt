@@ -10,3 +10,31 @@ C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote
 C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\Newtonsoft.Json.dll
 C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\Newtonsoft.Json.xml
 C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\obj\Debug\EU Vote Calulator.csproj.CopyComplete
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\Data\WriteLines.txt
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Austria.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Belgium.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Bulgaria.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Croatia.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Cyprus.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Czech Republic.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Denmark.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Estonia.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Finland.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\France.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Germany.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Greece.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Hungary.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Ireland.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Italy.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Latvia.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Lithuania.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Luxembourg.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Malta.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Netherlands.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Poland.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Portugal.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Romania.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Slovakia.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Slovenia.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Spain.png
+C:\Users\computing\Documents\GitHub\EU-Vote-Calculator\EU Vote Calulator\EU Vote Calulator\bin\Debug\imgs\flags\Sweden.png

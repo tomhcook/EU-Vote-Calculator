@@ -1,0 +1,1 @@
+{"Name":"mo","Abstain":false,"imgpath":"C:\\Users\\computing\\Downloads\\ch0015_00_takeshi_256.png","Vote":true,"pop":22.6}

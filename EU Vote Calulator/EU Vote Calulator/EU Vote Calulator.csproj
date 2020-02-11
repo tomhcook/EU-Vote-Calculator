@@ -69,6 +69,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -86,34 +87,90 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <Content Include="Data\WriteLines.txt" />
-    <Content Include="imgs\flags\Austria.png" />
-    <Content Include="imgs\flags\Belgium.png" />
-    <Content Include="imgs\flags\Bulgaria.png" />
-    <Content Include="imgs\flags\Croatia.png" />
-    <Content Include="imgs\flags\Cyprus.png" />
-    <Content Include="imgs\flags\Czech Republic.png" />
-    <Content Include="imgs\flags\Denmark.png" />
-    <Content Include="imgs\flags\Estonia.png" />
-    <Content Include="imgs\flags\Finland.png" />
-    <Content Include="imgs\flags\France.png" />
-    <Content Include="imgs\flags\Germany.png" />
-    <Content Include="imgs\flags\Greece.png" />
-    <Content Include="imgs\flags\Hungary.png" />
-    <Content Include="imgs\flags\Ireland.png" />
-    <Content Include="imgs\flags\Italy.png" />
-    <Content Include="imgs\flags\Latvia.png" />
-    <Content Include="imgs\flags\Lithuania.png" />
-    <Content Include="imgs\flags\Luxembourg.png" />
-    <Content Include="imgs\flags\Malta.png" />
-    <Content Include="imgs\flags\Netherlands.png" />
-    <Content Include="imgs\flags\Poland.png" />
-    <Content Include="imgs\flags\Portugal.png" />
-    <Content Include="imgs\flags\Romania.png" />
-    <Content Include="imgs\flags\Slovakia.png" />
-    <Content Include="imgs\flags\Slovenia.png" />
-    <Content Include="imgs\flags\Spain.png" />
-    <Content Include="imgs\flags\Sweden.png" />
+    <Content Include="Data\WriteLines.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Austria.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Belgium.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Bulgaria.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Croatia.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Cyprus.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Czech Republic.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Denmark.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Estonia.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Finland.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\France.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Germany.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Greece.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Hungary.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Ireland.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Italy.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Latvia.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Lithuania.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Luxembourg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Malta.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Netherlands.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Poland.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Portugal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Romania.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Slovakia.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Slovenia.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Spain.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\flags\Sweden.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
